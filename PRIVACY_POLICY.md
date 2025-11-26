@@ -15,7 +15,7 @@ I hereby state, to the best of my knowledge and belief, that I have not programm
 
 The list of permissions required by the app can be found in the `AndroidManifest.xml` file:
 
-
+https://github.com/Salaaatblatt/FoodSignal/blob/main/permissions.jpg
 <br/>
 
 | Permission | Why it is required |
@@ -29,4 +29,5 @@ If you find any security vulnerability that has been inadvertently caused by me,
 
 Yours sincerely,  
 Salaaatblatt
+<br/>
 Salaaatblatt@proton.me
